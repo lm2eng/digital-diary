@@ -50,7 +50,8 @@
         grid-template-rows: 50% 50%;
         gap: 30px;
         padding-top: 20px;
-        height: 800px;
+        
+        height: 600px;
         /* the container needs a defined height */
       }
 
