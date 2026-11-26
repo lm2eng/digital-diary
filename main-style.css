@@ -1,5 +1,5 @@
       body {
-        font-size: 15px;
+        font-size: 18px;
         font-weight: 400;
         font-style: normal;
         text-align: left;
@@ -63,6 +63,7 @@
         height: 600px;
         position: relative;
         top: -40px;
+        background-color: red;
       }
 
       .grid-item-2 {
