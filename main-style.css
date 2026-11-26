@@ -20,7 +20,6 @@
         list-style: none;
         margin: 0;
         padding: 0;
-        margin-top: 100px;
         background-color: green;
         width: 100%;
       }
@@ -50,9 +49,9 @@
         grid-template-rows: 50% 50%;
         gap: 30px;
         padding-top: 20px;
-        
         height: 600px;
         /* the container needs a defined height */
+        background-color: red;
       }
 
       .grid-item-tall {
@@ -63,7 +62,6 @@
         height: 600px;
         position: relative;
         top: -40px;
-        background-color: red;
       }
 
       .grid-item-2 {
