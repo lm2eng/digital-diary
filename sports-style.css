@@ -44,11 +44,19 @@
         color: #ffabf5;
       }
 
-      .container {
+      .container-1 {
         display: grid;
         grid-template-columns: 380px 380px 380px;
         gap: 30px;
         padding-top: 20px;
+        height: 600px;
+      }
+      
+       .container-2 {
+        display: grid;
+        grid-template-columns: 380px 380px 380px;
+        gap: 30px;
+        margin-top: 50px;
         height: 600px;
       }
 
