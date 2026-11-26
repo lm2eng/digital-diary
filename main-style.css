@@ -64,8 +64,12 @@
         top: -40px;
       }
 
-
       .grid-item-2 {
         background-color: #D9D9D9;
+        border-radius: 10px;
+      }
+
+      .grid-item img {
+        width: 99%;
         border-radius: 10px;
       }
