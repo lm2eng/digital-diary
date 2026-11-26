@@ -16,12 +16,11 @@
       }
 
       ul {
-        font-weight: 600;
+        font-weight: 500;
         list-style: none;
         margin: 0;
         padding: 0;
         margin-top: 50px; /* was 100 before */
-        background-color: green;
         width: 100%;
       }
 
@@ -32,7 +31,6 @@
 
       li:last-child {
         float: right;
-        background-color: red;
       }
       
       a {
@@ -56,11 +54,11 @@
       .grid-item-tall {
         grid-row: 1 / -1;
         /* span the full height */
-        background-color: #D9D9D9;
         border-radius: 10px;
-        height: 600px;
+        height: 300px;
         position: relative;
         top: -40px;
+        background-color: #D9D9D9;
       }
 
       .grid-item-2 {
