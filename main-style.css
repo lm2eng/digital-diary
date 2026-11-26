@@ -52,6 +52,7 @@
         padding-top: 20px;
         height: 600px;
         /* the container needs a defined height */
+        background-color: red;
       }
 
       .grid-item-tall {
