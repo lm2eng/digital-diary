@@ -56,13 +56,20 @@
         color: #ffabf5;
       }
 
-      .container {
+      .container-1 {
         display: grid;
         grid-template-columns: 890px 280px;
         gap: 30px;
         padding-top: 20px;
         height: 200px;
         /* the container needs a defined height */
+      }
+      
+      .container-2 {
+        display: grid;
+        grid-template-columns: 380px 380px 380px;
+        gap: 30px;
+        height: 300px;
       }
 
       .grid-item-tall {
